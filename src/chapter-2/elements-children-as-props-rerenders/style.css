@@ -1,0 +1,11 @@
+
+.moving-block {
+  border: 2px dotted dodgerblue;
+  padding: 36px;
+}
+
+.very-slow-component,
+.other-stuff-also-complicated,
+.bunch-of-stuff {
+  padding: 200px;
+}
